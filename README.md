@@ -22,6 +22,10 @@
 
 ![11859160_2](https://github.com/pflnhw/Yeonhee_Project/assets/129159977/256d5502-34c3-47f5-b9e4-c5c0d7b1fe07)
 
+# Flow Chart
+![Flow Chart](https://github.com/ajhwan/Yeonhee_Project/assets/129160008/396fcc7c-e602-4cb1-bcc3-5eabb557adf4)
+
+
 # Common Software Development Environments
 Ubuntu 18.04 Installation
 
