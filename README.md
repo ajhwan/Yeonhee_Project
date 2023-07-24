@@ -46,7 +46,7 @@ https://github.com/ajhwan/Yeonhee_Project/assets/129160008/b33c0cd3-d2ab-4b55-a4
 # Common Software Development Environments
 Ubuntu 18.04 Installation
 
-1. ROS Installation
+1. ROS Noetic Installation
 2. scout_mini SDK Installation Reference Site <https://github.com/agilexrobotics/ugv_sdk>
 3. scout_mini Package installation Reference Site <https://github.com/agilexrobotics/scout_ros>
 
