@@ -52,9 +52,10 @@ Ubuntu 18.04 Installation
 4. scout_mini Package installation Reference Site : <https://github.com/roasinc/scout_mini_ros>
 
 About Scout Mini
+
 1. data of Scout Mini(Korean ver) : <https://docs.roas.co.kr/scout_mini.html#>
 2. User manual of Scout Mini : <https://static.generation-robots.com/media/user-manual-agilex-robotics-scout-mini-with-rd-kit-pro.pdf>
 
-# Project. Serving Rovot(The Final Videos)
+# Project. Serving Robot(The Final Videos)
 https://github.com/pflnhw/Yeonhee_Project/assets/129159977/5d7ec83d-9903-4beb-955d-de9c94474094<br/>
 https://github.com/pflnhw/Yeonhee_Project/assets/129159977/f2900d6a-2eee-455f-95db-92ec623ada2e
