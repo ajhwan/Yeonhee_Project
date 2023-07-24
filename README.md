@@ -46,9 +46,14 @@ https://github.com/ajhwan/Yeonhee_Project/assets/129160008/b33c0cd3-d2ab-4b55-a4
 # Common Software Development Environments
 Ubuntu 18.04 Installation
 
-1. ROS Noetic Installation
-2. scout_mini SDK Installation Reference Site <https://github.com/agilexrobotics/ugv_sdk>
-3. scout_mini Package installation Reference Site <https://github.com/agilexrobotics/scout_ros>
+1. ROS Installation
+2. scout_mini SDK Installation Reference Site : <https://github.com/agilexrobotics/ugv_sdk>
+3. scout_mini Package installation Reference Site : <https://github.com/agilexrobotics/scout_ros>
+4. scout_mini Package installation Reference Site : <https://github.com/roasinc/scout_mini_ros>
+
+About Scout Mini
+1. data of Scout Mini : <https://docs.roas.co.kr/scout_mini.html#>
+2. User manual of Scout Mini : <https://static.generation-robots.com/media/user-manual-agilex-robotics-scout-mini-with-rd-kit-pro.pdf>
 
 # Project. Line_Detect
 https://github.com/pflnhw/Yeonhee_Project/assets/129159977/5d7ec83d-9903-4beb-955d-de9c94474094<br/>
