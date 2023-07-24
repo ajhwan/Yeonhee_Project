@@ -8,7 +8,7 @@
 # Technology Stack
 - ```Python```
 - ```C++```
-- ```Ros```
+- ```Ros Noetic```
 - ```Opencv```
 - ```Qt```
 - ```Git```
@@ -43,7 +43,7 @@ https://github.com/ajhwan/Yeonhee_Project/assets/129160008/b33c0cd3-d2ab-4b55-a4
 ![Explanation video](https://github.com/ajhwan/Yeonhee_Project/assets/129160008/cbb9ca48-b6b1-49b0-ac00-270fbd28f01f)
 
 
-# Common Software Development Environments
+# Common Software Development Environments(Reference)
 Ubuntu 18.04 Installation
 
 1. ROS Installation
@@ -55,6 +55,6 @@ About Scout Mini
 1. data of Scout Mini : <https://docs.roas.co.kr/scout_mini.html#>
 2. User manual of Scout Mini : <https://static.generation-robots.com/media/user-manual-agilex-robotics-scout-mini-with-rd-kit-pro.pdf>
 
-# Project. Line_Detect
+# Project. Serving Rovot(The Final Videos)
 https://github.com/pflnhw/Yeonhee_Project/assets/129159977/5d7ec83d-9903-4beb-955d-de9c94474094<br/>
 https://github.com/pflnhw/Yeonhee_Project/assets/129159977/f2900d6a-2eee-455f-95db-92ec623ada2e
