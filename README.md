@@ -30,7 +30,17 @@
 - ## Qt UI Video
 ![Qt-UI-video](https://github.com/ajhwan/Yeonhee_Project/assets/129160008/0b0211c3-8d86-4081-a9db-14ce6c0a65d6)
 
-- ## Move line tracer of scout mini
+- ## Line detection
+![line detection](https://github.com/ajhwan/Yeonhee_Project/assets/129160008/22be71ea-f411-4039-b237-e7066de972f8)
+
+- ## QRcode detection
+![qrcode detection](https://github.com/ajhwan/Yeonhee_Project/assets/129160008/29eaf40e-ae88-461c-b8f2-7a0c5c9f9603)
+
+- ## Scout Mini moving along the line
+https://github.com/ajhwan/Yeonhee_Project/assets/129160008/b33c0cd3-d2ab-4b55-a407-222749e5b8f7
+
+- ## Motion Explanation Video
+![Explanation video](https://github.com/ajhwan/Yeonhee_Project/assets/129160008/cbb9ca48-b6b1-49b0-ac00-270fbd28f01f)
 
 
 # Common Software Development Environments
